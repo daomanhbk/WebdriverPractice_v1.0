@@ -1,0 +1,22 @@
+{
+	"LogInPage": {
+		"url": "https://www.beecow.com/",
+		"phoneErrorMessageMsg": "Số điện thoại không đúng",
+		"emailErrorMessageMsg": "Email không đúng",
+		"logInErrorMessageMsG": "Hãy nhập email / số điện thoại và mật khẩu",
+		"toiThieu6KiTuMsg": "Tối thiểu 6 ký tự",
+		"saiEmailSoDTHoacMatKhauMsg": "Sai email / số điện thoại hoặc mật khẩu",
+		"coChutVanDeXayRaMsg": "Có chút vấn đề xảy ra. Hãy thử lại.",
+		"hayChonHinhAnhChoSanPham": "Hãy chọn hình ảnh cho sản phẩm"
+	},
+	"CreateProductPage": { 
+		"hayChonHinhAnhChoSanPham": "Hãy chọn hình ảnh cho sản phẩm",
+		"hayDienTenSanPham": "Hãy điền tên sản phẩm",
+		"hayChonDanhMuc": "Hãy chọn danh mục.",
+		"hayMoTaSanPham": "Hãy mô tả sản phẩm.",
+		"nhapSoLuong": "Nhập số lượng.",
+		"hayDienGia": "Hãy điền giá.",
+		"hayDienCanNangSanPham": "Hãy điền cân nặng sản phẩm.",
+		"batBuoc": "Bắt buộc"
+	}
+}

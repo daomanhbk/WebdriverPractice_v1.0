@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="password3" value="12345678"/>
+    <parameter name="password2" value="nadEmEq"/>
+    <parameter name="username3" value="vunguyen"/>
+    <parameter name="password1" value="jypAmYd"/>
+    <parameter name="username2" value="mngr214187"/>
+    <parameter name="username1" value="mngr214186"/>
+    <classes>
+      <class name="testng.TestParameter">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="tc02"/>
+          <include name="tc03"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- testng.TestParameter -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
